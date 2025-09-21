@@ -1,0 +1,33 @@
+{
+    "openrouter": {
+        "model": "anthropic/claude-3-sonnet",
+        "max_tokens": 1000
+    },
+    "voice": {
+        "rate": 140,
+        "volume": 0.9,
+        "voice_id": 0
+    },
+    "speech": {
+        "language": "pt-BR",
+        "energy_threshold": 400
+    },
+    "camera": {
+        "width": 1280,
+        "height": 720
+    },
+    "ui": {
+        "theme": "dark",
+        "accent_color": "#00FF41",
+        "window_size": "1400x900"
+    },
+    "features": {
+        "voice_activation": true,
+        "wake_word": "jarvis",
+        "face_recognition": true,
+        "auto_listen": true
+    },
+    "languages": {
+        "default": "pt-BR"
+    }
+}

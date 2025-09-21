@@ -1,0 +1,40 @@
+# Core GUI
+tkinter-modern-ui>=1.0.0
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Audio processing
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+sounddevice>=0.4.6
+
+# Computer vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# AI and API
+requests>=2.31.0
+openai>=1.0.0
+langdetect>=1.0.9
+
+# System automation
+psutil>=5.9.0
+pyautogui>=0.9.54
+keyboard>=0.13.5
+
+# Web and networking
+webbrowser>=0.1.0
+wikipedia>=1.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
+rich>=13.0.0
+
+# Optional: Text-to-speech alternatives
+gTTS>=2.3.0
+
+# Optional: Advanced features
+wolfram>=0.3
+weather-api>=1.0.0
